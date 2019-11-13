@@ -1,4 +1,4 @@
-This is the map of recreation locations in Calgary built by Leaflet.
+This is the interactive map of recreation locations in Calgary built by Leaflet.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
