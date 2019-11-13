@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/calgary_recreation_location/static/css/main.34de6062.chunk.css",
+    "main.js": "/calgary_recreation_location/static/js/main.eca42a71.chunk.js",
+    "main.js.map": "/calgary_recreation_location/static/js/main.eca42a71.chunk.js.map",
+    "runtime-main.js": "/calgary_recreation_location/static/js/runtime-main.cc13d3f6.js",
+    "runtime-main.js.map": "/calgary_recreation_location/static/js/runtime-main.cc13d3f6.js.map",
+    "static/css/2.098bc035.chunk.css": "/calgary_recreation_location/static/css/2.098bc035.chunk.css",
+    "static/js/2.e7f6ed73.chunk.js": "/calgary_recreation_location/static/js/2.e7f6ed73.chunk.js",
+    "static/js/2.e7f6ed73.chunk.js.map": "/calgary_recreation_location/static/js/2.e7f6ed73.chunk.js.map",
+    "index.html": "/calgary_recreation_location/index.html",
+    "precache-manifest.083bcd1b93976d4e7dea62f347bc52d1.js": "/calgary_recreation_location/precache-manifest.083bcd1b93976d4e7dea62f347bc52d1.js",
+    "service-worker.js": "/calgary_recreation_location/service-worker.js",
+    "static/css/2.098bc035.chunk.css.map": "/calgary_recreation_location/static/css/2.098bc035.chunk.css.map",
+    "static/css/main.34de6062.chunk.css.map": "/calgary_recreation_location/static/css/main.34de6062.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc13d3f6.js",
+    "static/css/2.098bc035.chunk.css",
+    "static/js/2.e7f6ed73.chunk.js",
+    "static/css/main.34de6062.chunk.css",
+    "static/js/main.eca42a71.chunk.js"
+  ]
+}
